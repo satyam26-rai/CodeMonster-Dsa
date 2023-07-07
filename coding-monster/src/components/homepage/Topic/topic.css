@@ -1,0 +1,35 @@
+.Topic_page{
+    background-color:black;
+}
+.Topic{ 
+    margin-top: 2rem;
+    display: flex;
+    
+    
+ }
+ li{
+    font-size: 2rem;
+    color: white; 
+    width: 12rem;
+    height: 8rem;
+    text-align: center;
+    border: 5px solid #fff;
+    border-spacing: 2px;
+    padding-top: 2.5rem;
+    border-radius: 30%;
+    text-align:center; 
+ }
+ .series{
+    display: flex;
+    margin: 3rem;
+ 
+ }
+.series_line{
+    margin: 0 7rem 0 5rem;
+    display: block;
+    background-color:rgb(142, 139, 139);
+    border-radius: 30%;
+}
+.series_line:hover{
+    background-color: #ea8408;
+}
